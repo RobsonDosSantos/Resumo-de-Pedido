@@ -5,15 +5,6 @@
   font-family: "Red Hat Display", sans-serif;
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 html {
   background: #E0E8FF;
 }
@@ -50,7 +41,7 @@ main {
 }
 
 main section h1 {
-  margin: 1.5rem 0 1.5rem 0;
+  margin: 1.5rem 0 0.7rem 0;
   color: hsl(223, 47%, 23%);
 }
 
@@ -74,6 +65,10 @@ main section h1 {
 .plano {
   display: flex;
   align-items: center;
+}
+
+.preco p{
+  color: hsl(224, 23%, 55%);
 }
 
 #icone-musical{
@@ -104,11 +99,11 @@ main button {
   border-radius: 1rem;
   padding: 1rem;
   box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.2);  
+  transition: 0.3s;
 }
 
 main button:hover{
-  background: rgb(108, 56, 190);
-  transition: 0.3s;
+  background: rgb(108, 56, 190);  
 }
 
 #cancelamento {
