@@ -8,15 +8,7 @@ Projeto realizado para aprendizado, com base no desafio do <strong>Frontend Ment
 - [x] Css
 - [ ] Javascript
 
-## Github Page do Desafio ###
-https://robsondossantos.github.io/Resumo-de-Pedido/
-<br>
-<br>
-![image](https://user-images.githubusercontent.com/54293172/182372286-28e408c3-1c01-4248-aa32-36211bcd7555.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-_____________
-#vamosCodar😎
+<h3 align="center">Github Page do Desafio
+<span>:relaxed::v:</span>
+<br>:point_right:<a href="https://robsondossantos.github.io/Resumo-de-Pedido/" target="_blank">É só você clicar aqui para ver o <strong>Resultado</strong></a>
+</h3>
